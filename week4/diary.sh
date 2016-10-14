@@ -8,7 +8,7 @@ read text
 
 echo 'date' $text >> diary.txt
 
-#alternative solution
+#alternative solution needs varying
 
 #read diaryEntry
 
